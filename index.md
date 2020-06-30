@@ -8,5 +8,6 @@ For others its just a creature with a special spirit.
 * ears
 * nose
 * antenna
+* spleen
 
 
